@@ -1,0 +1,35 @@
+
+.header{
+    padding-top:10px ;
+    display: flex;
+    justify-content: space-between;
+    gap: 9px;
+  }
+
+.d-flax{
+    display: flex;
+    position: relative;
+ 
+    
+    
+  }
+  .main{
+    display: flex;
+    justify-content: center;
+    
+  
+  }
+  .flex-wrap{
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  .align-item{
+    align-items: flex-start;
+    padding-left: 12px;
+
+  }
+  .nav-container{
+    display: flex;
+    justify-content: space-between;
+    
+  }
